@@ -4,6 +4,8 @@ Programa de consola en Python para QA de marketplaces de viajes. Recalcula punto
 TA y FEE de vuelos, DropOff de autos, MarkUp y conversión de moneda, para verificar que lo que cobra
 cada agencia coincide con lo que debería cobrar según Sabre.
 
+![Demo: la calculadora detecta un cobro errado y luego uno correcto](assets/demo.gif)
+
 > **Datos de ejemplo.** Los nombres de agencias, valores, IDs, URLs, usuarios y contraseñas de `src/marketplaces.json` son
 > ficticios (varios hacen guiño a animes) y solo muestran cómo funciona el programa. No corresponden a la configuración real de
 > ninguna empresa.
